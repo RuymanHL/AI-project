@@ -1,4 +1,4 @@
-# Project Title: It is still under consideration (please read the explanation in the summary)
+# Project Title: It is still under consideration
 
 Building AI course project
 
